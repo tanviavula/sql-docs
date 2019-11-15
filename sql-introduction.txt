@@ -1,7 +1,8 @@
 SQL
+------------------------------------------------------------------------------
 
-DDL
-DML
-DQL
-TCL
-DCL
+DDL - Create, Alter, Truncate, Drop
+DML - Insert, Update, Delete, Merge
+DQL - Select
+TCL - Commit, Rollback
+DCL - Grant, Revoke
